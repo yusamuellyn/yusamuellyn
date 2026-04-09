@@ -1,43 +1,21 @@
-# Hey, I'm Samuel 👋
+# 💫 About Me:
+Computer Science Studnet
 
-I'm a CS student at Binghamton University who loves building things — whether that's a full-stack web app, a native iOS app, or a simulation for quantum satellite networks. I learn best by shipping projects and figuring things out along the way.
 
-Right now I'm doing research on quantum satellite network optimization, helping run [HackBU](https://hackbu.org) as VP of Communications, and working on whatever new idea I can't stop thinking about.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-yu138/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syu12@binghamton.edu) 
 
----
-
-## What I'm working with
-
-```
-Languages   →  JavaScript, Python, Swift, Java, C/C++
-Frontend    →  React, SwiftUI, HTML/CSS
-Backend     →  Node.js, Express, FastAPI
-Databases   →  MongoDB
-AI/APIs     →  Google Gemini, Google Maps
-DevOps      →  Git, Netlify, Render, GitHub Actions
-Research    →  NumPy, Pandas, Matplotlib
-```
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yusamuellyn&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yusamuellyn&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusamuellyn&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yusamuellyn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Things I've built
-
-**[Faro](https://github.com/yoavmuscal/Faro/tree/main)** — built at Yale Hack '26, Faro is an iOS app that gives small businesses a full insurance liability analysis in under two minutes. I handled the Swift frontend, FastAPI backend, Auth0 authentication, and Gemini AI pipeline.
-
-**[Allergy Detector](https://github.com/yusamuellyn/Notetaker-Application)** — a web app that scrapes menu data from 1,000+ restaurants and uses AI to flag allergens and give safety scores. Built for people with food allergies who just want to eat out without the stress.
-
-**[Note Taker](https://github.com/yusamuellyn/Notetaker-Application)** — a clean full-stack notes app. Nothing flashy, just a solid CRUD app with a RESTful API, rate limiting, and proper deployment — good fundamentals practice.
-
----
-
-## a few other things
-
-- 🔭 researching how to optimize quantum satellite ground station placement using simulations in Python
-- 🎙️ organizing hackathons and handling all things communications at HackBU
-- 📬 syu12@binghamton.edu
-
-[LinkedIn](https://linkedin.com/in/samuel-yu138) · [GitHub](https://github.com/yusamuellyn)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **yusamuellyn/yusamuellyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
