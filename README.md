@@ -24,9 +24,9 @@ Research    →  NumPy, Pandas, Matplotlib
 
 **[Faro](https://github.com/yoavmuscal/Faro/tree/main)** — built at Yale Hack '26, Faro is an iOS app that gives small businesses a full insurance liability analysis in under two minutes. I handled the Swift frontend, FastAPI backend, Auth0 authentication, and Gemini AI pipeline.
 
-**Allergy Detector(https://github.com/yusamuellyn/Notetaker-Application)** — a web app that scrapes menu data from 1,000+ restaurants and uses AI to flag allergens and give safety scores. Built for people with food allergies who just want to eat out without the stress.
+**[Allergy Detector](https://github.com/yusamuellyn/Notetaker-Application)** — a web app that scrapes menu data from 1,000+ restaurants and uses AI to flag allergens and give safety scores. Built for people with food allergies who just want to eat out without the stress.
 
-**Note Taker** — a clean full-stack notes app. Nothing flashy, just a solid CRUD app with a RESTful API, rate limiting, and proper deployment — good fundamentals practice.
+**[Note Taker](https://github.com/yusamuellyn/Notetaker-Application)** — a clean full-stack notes app. Nothing flashy, just a solid CRUD app with a RESTful API, rate limiting, and proper deployment — good fundamentals practice.
 
 ---
 
