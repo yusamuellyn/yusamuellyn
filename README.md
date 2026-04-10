@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Profile Banner" width="600"/>
 </p>
+
 - 🎓 CS student at Binghamton University, focused on scalable systems and applied AI  
 - 🧠 Research Assistant optimizing quantum satellite networks using Python, NumPy, and simulation modeling  
 - 💻 Software Engineering Intern building and deploying full-stack systems with React, Node.js, FastAPI, and AI integrations (Gemini API)  
