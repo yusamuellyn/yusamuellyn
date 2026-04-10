@@ -1,6 +1,6 @@
 ## 👋 About Me
 <p align="center">
-  <img src="assets/profile.png" alt="Profile Banner" width="600"/>
+  <img src="assets/banner.png" alt="Profile Banner" width="600"/>
 </p>
 - 🎓 CS student at Binghamton University, focused on scalable systems and applied AI  
 - 🧠 Research Assistant optimizing quantum satellite networks using Python, NumPy, and simulation modeling  
