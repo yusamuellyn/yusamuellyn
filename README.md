@@ -1,6 +1,6 @@
 ## 👋 About Me
 <p align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="600"/>
+  <img src="assets/banner.png" alt="Profile Banner" width="700"/>
 </p>
 
 - 🎓 CS student at Binghamton University, focused on scalable systems and applied AI  
