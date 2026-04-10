@@ -7,7 +7,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-yu138/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syu12@binghamton.edu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-yu138/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syu12@binghamton.edu)
+(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syu12@binghamton.edu) 
 
 ## 💻 Tech Stack
 
