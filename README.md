@@ -1,5 +1,9 @@
-# 💫 About Me:
-Computer Science Studnet
+## 👋 About Me
+
+- 🎓 CS student at Binghamton University (GPA: 3.71), focused on scalable systems and applied AI  
+- 🧠 Research Assistant optimizing quantum satellite networks using Python, NumPy, and simulation modeling  
+- 💻 Software Engineering Intern building and deploying full-stack systems with React, Node.js, FastAPI, and AI integrations (Gemini API)  
+- 🚀 Built production applications serving real users, improving performance, automation, and system reliability  
 
 
 ## 🌐 Socials:
