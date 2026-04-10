@@ -8,7 +8,8 @@
 - 💻 Software Engineering Intern building and deploying full-stack systems with React, Node.js, FastAPI, and AI integrations (Gemini API)  
 - 🚀 Built production applications serving real users, improving performance, automation, and system reliability  
 
-Lets Connect!! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-yu138/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syu12@binghamton.edu)
+💼 Seeking software engineering internships and research opportunities in scalable systems, AI, and full-stack development.
+🤝 Lets Connect!! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-yu138/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syu12@binghamton.edu)
 
 
 ## 💻 Tech Stack
