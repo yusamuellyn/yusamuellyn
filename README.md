@@ -92,7 +92,7 @@ Vercel, Render, Netlify
 
 ---
 
-**Let's connect:** [syu12@binghamton.edu](mailto:syu12@binghamton.edu) | [LinkedIn](https://linkedin.com/in/samuel-yu138) | [GitHub](https://github.com/yusamuellyn)m.itsvg.in ) -->
+**Let's connect:** [syu12@binghamton.edu](mailto:syu12@binghamton.edu) | [LinkedIn](https://linkedin.com/in/samuel-yu138) | [GitHub](https://github.com/yusamuellyn) ) -->
 <!--
 **yusamuellyn/yusamuellyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
