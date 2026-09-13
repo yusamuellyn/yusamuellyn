@@ -1,75 +1,98 @@
-# Hi, I'm Samuel Yu 👋
+# Samuel Yu
+Full Stack Developer · Quantum Networking Research · Course Assistant
 
-Computer Science student at Binghamton University, building software that ranges from quantum satellite simulations to AI-powered accessibility apps.
+[LinkedIn](https://linkedin.com/in/samuel-yu138) · [GitHub](https://github.com/yusamuellyn) · [Email](mailto:syu12@binghamton.edu)
 
-- 🎓 B.S. Computer Science, Binghamton University (2024 – 2028)
-- 🔭 Currently a **Senior Course Assistant** for Intro to CS (Logisim + Python) and a **Research Assistant** on a quantum ground-station optimization project
-- 🚀 Building **StutterSong**, an app that scores speech and prescribes practice songs based on stutter severity
-- 💪 Off the keyboard, you'll find me powerlifting
-- 📫 Reach me at [syu12@binghamton.edu](mailto:syu12@binghamton.edu) or [LinkedIn](https://linkedin.com/in/samuel-yu138)
+## About Me
 
----
+I'm a Computer Science student at Binghamton University (GPA: 3.54) focused on full stack development and applied research, from quantum satellite simulations to AI-powered accessibility tools. I like taking a project from an idea to something people can actually use.
 
-## 🛠️ Tech Stack
+- Research Assistant on a quantum networking project, boosting simulated quantum fidelity 20%
+- Senior Course Assistant leading labs and office hours for 80+ students
+- Vice President of Communications for HackBU, Binghamton's hackathon club
+- B.S. Computer Science, Expected May 2028
+- Relevant Coursework: Design & Analysis of Algorithms, Programming with Objects & Data Structures, Discrete Mathematics, Computer Architecture
+
+## Experience
+
+**Senior Course Assistant** — Binghamton University
+Vestal, NY · August 2026 – Present
+
+- Design Logisim logic-gate labs and Python exercises for 80+ students, earning positive feedback on lab relevance
+- Lead weekly lab sessions and office hours, debugging code and clarifying assignments, boosting lab completion rates
+- Align lab content and grading standards with the professor and 5 course assistants, minimizing grading disputes
+
+**Research Assistant – Quantum Networking** — Binghamton University
+Vestal, NY · January 2026 – Present
+
+- Simulate ground station placement across cloud, solar & terrestrial loss, boosting quantum fidelity 20%
+- Author literature reviews & data analysis on 15+ peer-reviewed papers to propose quantum satellite frameworks
+- Engineer Julia-based simulations to optimize quantum satellite constellations for network efficiency by 10%
+- Collaborate with five research colleagues to develop a novel ground-station-satellite link, improving link reliability
+
+**Software Developer Intern** — SafetyZone
+Remote · July 2025 – October 2025
+
+- Analyzed 100+ food safety profiles & user feedback to deliver product improvements collaborating with founder
+- Built & deployed a web application using HTML, CSS & JavaScript increasing monthly site visits by 1000+
+- Integrated a Gemini AI-powered chatbot delivering real-time allergy & safety responses to 250+ users
+- Automated CI/CD pipeline using Netlify, Render & GitHub, reducing deployment time by 30%
+
+**Vice President of Communications** — HackBU
+Binghamton University · September 2024 – Present
+
+- Organize & promote a hackathon with 200+ participants through outreach & social media campaigns
+- Supervise HackBU's communications strategy using Instagram & Discord, boosting engagement by 30%
+- Directed communication initiatives to secure a $2,000 sponsorship, improving hackathon quality & engagement
+- Rebuild HackBU's website using React, including a new sign-up system for hackathon registration
+
+## Tech Stack
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+JavaScript, TypeScript, Python, Java, Julia, C/C++, HTML, CSS
 
 **Frameworks & Libraries**
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Databases & Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+Next.js, React.js, React Native, Node.js, Express.js, TailwindCSS, REST API, FastAPI, Flask
 
----
+**Databases & Cloud**
 
-## 💼 Experience
+MongoDB, Firebase, Supabase, PostgreSQL
 
-**Senior Course Assistant** — Binghamton University *(Aug 2026 – Present)*
-Design Logisim logic-gate labs and Python exercises for 80+ students; lead weekly lab sessions and office hours; align lab content and grading standards with the professor and 5 course assistants.
+**Developer Tools**
 
-**Research Assistant – Quantum Networking** — Binghamton University *(Jan 2026 – Present)*
-Simulate ground station placement across cloud, solar, and terrestrial loss, boosting quantum fidelity by 20%. Engineer Julia-based simulations that optimize quantum satellite constellations for 10% better network efficiency.
+Git, Linux, Docker, Excel, PowerPoint
 
-**Software Developer Intern** — SafetyZone *(Jul 2025 – Oct 2025)*
-Built and deployed a web app that grew monthly site visits by 1,000+; integrated a Gemini AI-powered chatbot delivering real-time allergy/safety responses to 250+ users; automated a CI/CD pipeline cutting deployment time by 30%.
+**Deployment**
 
-**Vice President of Communications** — HackBU *(Sep 2024 – Present)*
-Organize and promote a 200+ participant hackathon; run communications strategy across Instagram and Discord (+30% engagement); secured a $2,000 sponsorship; rebuilt HackBU's website in React with a new registration system.
+Vercel, Render, Netlify
 
----
+## Projects
 
-## 📊 GitHub Stats
+### Research & Applied ML
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusamuellyn&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusamuellyn&layout=compact)
+| Project | Description | Stack |
+|---|---|---|
+| [StutterSong](https://github.com/yusamuellyn) | Records a user reading a prompt, scores stutter severity with a CNN trained on the SEP-28k dataset, and prescribes practice songs matched to severity across a 100+ song catalog | Python, PyTorch, Flask, Next.js, TailwindCSS, Firebase |
+
+### Full Stack & Software Development
+
+| Project | Description | Stack |
+|---|---|---|
+| [Justab](https://github.com/yusamuellyn/Justab) | Full-stack iOS app that scans receipts via a Tesseract OCR pipeline (95% accuracy) and splits costs via party codes for groups of 20+ | React Native, TypeScript, FastAPI, Supabase, Tesseract OCR |
+| [Allergy-Website](https://github.com/yusamuellyn/Allergy-Website) | Web app built during a food-safety internship, integrating a Gemini AI-powered chatbot for real-time allergy and safety responses | JavaScript, HTML, CSS |
+| [Notetaker-Application](https://github.com/yusamuellyn/Notetaker-Application) | Web app for creating and managing personal notes | JavaScript |
+
+### Web Development
+
+| Project | Description | Stack |
+|---|---|---|
+| [WeatherWebsite](https://github.com/yusamuellyn/WeatherWebsite) | Real-time weather lookup site | CSS, JavaScript |
 
 ---
 
-📫 **Let's connect:** [syu12@binghamton.edu](mailto:syu12@binghamton.edu) | [LinkedIn](https://linkedin.com/in/samuel-yu138) | [GitHub](https://github.com/yusamuellyn)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Let's connect:** [syu12@binghamton.edu](mailto:syu12@binghamton.edu) | [LinkedIn](https://linkedin.com/in/samuel-yu138) | [GitHub](https://github.com/yusamuellyn)m.itsvg.in ) -->
 <!--
 **yusamuellyn/yusamuellyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
