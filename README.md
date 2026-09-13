@@ -81,7 +81,7 @@ Vercel, Render, Netlify
 | Project | Description | Stack |
 |---|---|---|
 | [Justab](https://github.com/yusamuellyn/Justab) | Full-stack iOS app that scans receipts via a Tesseract OCR pipeline (95% accuracy) and splits costs via party codes for groups of 20+ | React Native, TypeScript, FastAPI, Supabase, Tesseract OCR |
-| [Allergy-Website](https://github.com/yusamuellyn/Allergy-Website) | Web app built during a food-safety internship, integrating a Gemini AI-powered chatbot for real-time allergy and safety responses | JavaScript, HTML, CSS |
+| [restaurantIQ](https://github.com/yusamuellyn/restaurantIQ) | Web app built during a food-safety internship, integrating a Gemini AI-powered chatbot for real-time allergy and safety responses | JavaScript, HTML, CSS |
 | [Notetaker-Application](https://github.com/yusamuellyn/Notetaker-Application) | Web app for creating and managing personal notes | JavaScript |
 | [Angry-Flap](https://github.com/yusamuellyn/Angry-Flap) | Flappy Bird-style game built as a final project | Python |
 
