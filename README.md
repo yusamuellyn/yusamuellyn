@@ -120,7 +120,7 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 | Project | Event | Description | Stack |
 |---|---|---|---|
 | [Faro](https://github.com/yoavmuscal/Faro) | YHack 2026 | AI-native commercial insurance intake and analysis app for iOS/iPadOS. Small business owners describe their company by form or voice and get a structured coverage analysis in about two minutes from a four-step LangGraph agent pipeline (risk profiler, coverage mapper, submission builder, explainer), with live WebSocket progress, spoken summaries, PDF export, and a home screen widget | Swift, SwiftUI, Python, FastAPI, LangGraph, Gemini, ElevenLabs, MongoDB Atlas, Auth0 |
-| [MemeArena](https://github.com/yusamuellyn/HopHacks-2026-MemeArena) ([Live](https://hop-hacks-2026-meme-arena.vercel.app)) | HopHacks 2026 | Full-stack web app built in a weekend hackathon | Python, FastAPI, React, Vite, Vercel |
+| [MemeArena](https://github.com/yusamuellyn/HopHacks-2026-MemeArena) ([Live](https://hop-hacks-2026-meme-arena.vercel.app)) | HopHacks 2026 | Full-stack web app that pulls meme data from Twitter and compares memes head-to-head | Python, FastAPI, React, Vite, Vercel |
 
 ### Web & Software Development
 
