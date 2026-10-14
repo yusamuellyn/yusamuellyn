@@ -68,6 +68,7 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -118,6 +119,7 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 
 | Project | Event | Description | Stack |
 |---|---|---|---|
+| [Faro](https://github.com/yoavmuscal/Faro) | YHack 2026 | AI-native commercial insurance intake and analysis app for iOS/iPadOS. Small business owners describe their company by form or voice and get a structured coverage analysis in about two minutes from a four-step LangGraph agent pipeline (risk profiler, coverage mapper, submission builder, explainer), with live WebSocket progress, spoken summaries, PDF export, and a home screen widget | Swift, SwiftUI, Python, FastAPI, LangGraph, Gemini, ElevenLabs, MongoDB Atlas, Auth0 |
 | [MemeArena](https://github.com/yusamuellyn/HopHacks-2026-MemeArena) ([Live](https://hop-hacks-2026-meme-arena.vercel.app)) | HopHacks 2026 | Full-stack web app built in a weekend hackathon | Python, FastAPI, React, Vite, Vercel |
 
 ### Web & Software Development
