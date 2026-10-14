@@ -14,9 +14,9 @@
 
 ## About Me
 
-I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building software that ranges from quantum satellite simulations to AI-powered accessibility apps, and teaching the next wave of CS students along the way.
+I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building software that ranges from quantum satellite simulations to AI-powered accessibility apps, and helping the next wave of CS students along the way.
 
-- Currently a **Senior Course Assistant** for Intro to CS (Logisim + Python), serving 80+ students
+- Currently a **Senior Course Assistant** for Intro to CS (Logisim + Python), supporting 80+ students
 - **Research Assistant** on a quantum ground-station optimization project
 - Building **StutterSong**, an app that scores speech and prescribes practice songs based on stutter severity
 - **VP of Communications** at HackBU, Binghamton's hackathon club
@@ -24,35 +24,38 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 - Open to SWE internships
 - Off the keyboard, you'll find me powerlifting 💪
 
-**Relevant Coursework:** Design & Analysis of Algorithms, Programming with Objects and Data Structures, Discrete Mathematics, Computer Architecture
+**Relevant Coursework:** Design & Analysis of Algorithms, Programming with Objects & Data Structures, Discrete Mathematics, Computer Architecture, Operating Systems
 
 ---
 
 ## Experience
 
 ### Binghamton University — Senior Course Assistant
-*Binghamton, NY · Aug 2026 – Present*
-- Design Logisim logic-gate labs and Python exercises for 80+ students in Intro to CS
-- Lead weekly lab sessions and office hours
-- Align lab content and grading standards with the professor and 5 other course assistants
+*Vestal, NY · Aug 2026 – Present*
+- Design Logisim logic-gate labs and Python exercises for 80+ students, earning positive feedback on lab relevance
+- Lead weekly lab sessions and office hours, debugging code and clarifying assignments to boost lab completion rates
+- Align lab content and grading standards with the professor and 5 other course assistants, minimizing grading disputes
 
 ### Binghamton University — Research Assistant, Quantum Networking
-*Binghamton, NY · Jan 2026 – Present*
+*Vestal, NY · Jan 2026 – Present*
 - Simulate ground station placement across cloud, solar, and terrestrial loss, boosting quantum fidelity by 20%
 - Engineer Julia-based simulations that optimize quantum satellite constellations for 10% better network efficiency
+- Author literature reviews and data analysis on 15+ peer-reviewed papers to propose quantum satellite frameworks
+- Collaborate with five research colleagues to develop a novel ground-station-satellite link, improving link reliability
 
 ### SafetyZone — Software Developer Intern
-*Jul 2025 – Oct 2025*
-- Built and deployed a web app that grew monthly site visits by 1,000+
-- Integrated a Gemini AI-powered chatbot delivering real-time allergy/safety responses to 250+ users
-- Automated a CI/CD pipeline, cutting deployment time by 30%
+*Remote · Jul 2025 – Oct 2025*
+- Built and deployed a web app with HTML, CSS, and JavaScript that grew monthly site visits by 1,000+
+- Integrated a Gemini AI-powered chatbot delivering real-time allergy and safety responses to 250+ users
+- Automated a CI/CD pipeline with Netlify, Render, and GitHub, cutting deployment time by 30%
+- Analyzed 100+ food safety profiles and user feedback to deliver product improvements in collaboration with the founder
 
 ### HackBU — Vice President of Communications
 *Binghamton, NY · Sep 2024 – Present*
-- Organize and promote a 200+ participant hackathon
-- Run communications strategy across Instagram and Discord, lifting engagement 30%
-- Secured a $2,000 sponsorship for the event
-- Rebuilt HackBU's website in React with a new registration system
+- Organize and promote a hackathon with 200+ participants through outreach and social media campaigns
+- Run communications strategy across Instagram and Discord, boosting engagement by 30%
+- Directed communication initiatives that secured a $2,000 sponsorship
+- Rebuilt HackBU's website in React, including a new sign-up system for hackathon registration
 
 ---
 
@@ -85,6 +88,7 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 
 **Databases & Cloud**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -97,6 +101,7 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -106,8 +111,8 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 
 | Project | Description | Stack |
 |---|---|---|
-| **StutterSong** | App that scores stutter severity from recorded speech with a CNN trained on the SEP-28k dataset, then matches users to practice songs by BPM | Python, PyTorch |
-| [Justab](https://github.com/yusamuellyn/Justab) | Mobile app that scans receipts with OCR and splits costs between groups | React Native, FastAPI, Supabase, Tesseract |
+| **StutterSong** | App that records a user reading a prompt, scores stutter severity with a PyTorch CNN trained on SEP-28k, and assigns practice songs by BPM from a 100+ song catalog across 4 severity levels | Python, PyTorch, Flask, Next.js, Tailwind CSS, Firebase |
+| [Justab](https://github.com/yusamuellyn/Justab) | iOS app that scans receipts and splits costs via party codes for groups of 20+, with a Tesseract OCR pipeline extracting line items at 95% accuracy and a FastAPI backend for real-time party and item management | React Native, TypeScript, FastAPI, Supabase, PostgreSQL, Tesseract OCR |
 
 ### Web & Software Development
 
