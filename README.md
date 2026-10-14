@@ -133,13 +133,6 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 
 ---
 
-## GitHub Stats
-
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusamuellyn&show_icons=true&theme=default)](https://github.com/yusamuellyn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusamuellyn&layout=compact)](https://github.com/yusamuellyn)
-
----
-
 <div align="center">
 
 📫 **Let's connect:** [syu12@binghamton.edu](mailto:syu12@binghamton.edu) · [LinkedIn](https://linkedin.com/in/samuel-yu138) · [GitHub](https://github.com/yusamuellyn)
