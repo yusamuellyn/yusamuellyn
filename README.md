@@ -128,7 +128,7 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 |---|---|---|
 | [Allergy-Website](https://github.com/yusamuellyn/Allergy-Website) | Web app focused on allergy and safety information | JavaScript |
 | [Notetaker-Application](https://github.com/yusamuellyn/Notetaker-Application) | Application for creating and managing notes | JavaScript |
-| [WeatherWebsite](https://github.com/yusamuellyn/WeatherWebsite) | Weather lookup website | CSS, JavaScript |
+| [WeatherWebsite](https://github.com/yusamuellyn/WeatherWebsite) | Weather lookup website | HTML, CSS, JavaScript |
 | [Angry-Flap](https://github.com/yusamuellyn/Angry-Flap) | Game built for a CS course final project | Python |
 
 ---
