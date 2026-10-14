@@ -114,6 +114,12 @@ I'm a Computer Science student at **Binghamton University** (GPA: 3.54) building
 | **StutterSong** | App that records a user reading a prompt, scores stutter severity with a PyTorch CNN trained on SEP-28k, and assigns practice songs by BPM from a 100+ song catalog across 4 severity levels | Python, PyTorch, Flask, Next.js, Tailwind CSS, Firebase |
 | [Justab](https://github.com/yusamuellyn/Justab) | iOS app that scans receipts and splits costs via party codes for groups of 20+, with a Tesseract OCR pipeline extracting line items at 95% accuracy and a FastAPI backend for real-time party and item management | React Native, TypeScript, FastAPI, Supabase, PostgreSQL, Tesseract OCR |
 
+### Hackathon Projects
+
+| Project | Event | Description | Stack |
+|---|---|---|---|
+| [MemeArena](https://github.com/yusamuellyn/HopHacks-2026-MemeArena) ([Live](https://hop-hacks-2026-meme-arena.vercel.app)) | HopHacks 2026 | Full-stack web app built in a weekend hackathon | Python, FastAPI, React, Vite, Vercel |
+
 ### Web & Software Development
 
 | Project | Description | Stack |
